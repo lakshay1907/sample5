@@ -1,0 +1,66 @@
+body {
+    background-image: url("back1.jpg");
+ 
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: cursive;
+    
+}
+img{
+    border-radius: 20%;
+}
+.viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
+  h4{
+    color: white;
+    font-size: 230%;
+    line-height: 0%;
+    font-family: cursive;
+}
+h3{
+    color: white;
+    font-size: 160%;
+    line-height: 0%;
+    font-family: cursive;
+}
+h1{
+    color: white;
+    font-size: 300%;
+    line-height: 0%;
+}
+h2{
+    color:white;
+    font-size: 150%;
+    font-style: italic;
+    font-style: oblique;
+   
+}
+p{
+   
+    color: white;
+    font-size: 180%;
+    font-style: italic;
+   
+}
+h1 {
+    color:white;
+}
+a{
+    font-size: 150%;
+    text-decoration: none;
+}
+p,h2{
+    text-align: center;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
